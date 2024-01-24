@@ -220,12 +220,12 @@ int main()
     do
     {
         cout<<"\nChoose the following operations : "<<endl;
-        cout<<"1. Create the Single linked List"<<endl;
-        cout<<"2. Display the Single linked List"<<endl;
-        cout<<"3. Append in the Single linked List"<<endl;
-        cout<<"4. Insert in the Single linked List"<<endl;
-        cout<<"5. Search in the Single linked List"<<endl;
-        cout<<"6. Delete in the Single linked List"<<endl;
+        cout<<"1. Create the Double linked List"<<endl;
+        cout<<"2. Display the Double linked List"<<endl;
+        cout<<"3. Append in the Double linked List"<<endl;
+        cout<<"4. Insert in the Double linked List"<<endl;
+        cout<<"5. Search in the Double linked List"<<endl;
+        cout<<"6. Delete in the Double linked List"<<endl;
         cout<<"7. Exit"<<endl;
 
         cin>>ch;
